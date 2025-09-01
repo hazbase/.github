@@ -1,4 +1,4 @@
-# Token Market
+# Human-centered token market
 
 *Building an open, human-centered token economy — value beyond capital.*
 
