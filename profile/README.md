@@ -29,8 +29,7 @@ Our goal is not speculation. It’s **dignity, participation, and sustainable gr
 Community builders · SME operators · Local governments · Creators · Researchers · Responsible investors · Policymakers
 
 ## Learn More
-- **Whitepaper (日本語 / JP)** — *トークン市場創立に向けた制度設計と実装戦略*: [JP LINK]  
-- **Whitepaper (English / EN)** — *Institutional Design & Implementation Strategy for a Token Market*: [EN LINK]
+- See https://lp.hazbase.com
 
 ## Get Involved
 1. Read the whitepaper (JP/EN) and open an **Issue/RFC** with your questions or use-cases.  
